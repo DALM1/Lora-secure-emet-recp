@@ -14,10 +14,10 @@ lora-secure-comm/
 
 ## Fonctionnalités
 
-- 🔐 **Chiffrement AES-256** pour toutes les communications
-- 🌐 **Interface web moderne** avec React
-- 📡 **Communication LoRa** bidirectionnelle
-- 🔑 **Gestion sécurisée des clés** de chiffrement
+-  **Chiffrement AES-256** pour toutes les communications
+-  **Interface web moderne** avec React
+-  **Communication LoRa** bidirectionnelle
+-  **Gestion sécurisée des clés** de chiffrement
 -  **Monitoring en temps réel** des messages
 - 🛡️ **Authentification** et autorisation
 
