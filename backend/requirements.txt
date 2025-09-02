@@ -1,0 +1,9 @@
+flask==3.0.0
+flask-cors==4.0.0
+flask-socketio==5.3.6
+pycryptodome==3.19.0
+pyserial==3.5
+requests==2.31.0
+python-dotenv==1.0.0
+werkzeug==3.0.1
+eventlet==0.33.3
